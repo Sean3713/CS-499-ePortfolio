@@ -6,3 +6,6 @@ This code review discusses my selected artifacts for software design and enginee
 
 # Software Design and Engineering Enhancement
 For my software design and engineering enhancement, I selected my CS 360 Event Tracking App. I improved the application by adding event categories, filtering and sorting, stronger input validation, password security, and database updates. These changes helped improve the usability, organization, and security of the application.
+
+# Algorithms and Data Structures Enhancement
+For my algorithms and data structures enhancement, I selected my CS 300 Course Planner. I improved the program by adding a binary search tree, recursive searching and traversal, and a comparison between the vector, unordered map, and binary search tree. These changes helped improve the organization of the program and allowed me to compare how different data structures handle storing and searching for course information.
