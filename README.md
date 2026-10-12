@@ -9,3 +9,7 @@ For my software design and engineering enhancement, I selected my CS 360 Event T
 
 # Algorithms and Data Structures Enhancement
 For my algorithms and data structures enhancement, I selected my CS 300 Course Planner. I improved the program by adding a binary search tree, recursive searching and traversal, and a comparison between the vector, unordered map, and binary search tree. These changes helped improve the organization of the program and allowed me to compare how different data structures handle storing and searching for course information.
+
+
+# Database Enhancement
+For my database enhancement, I selected my CS 465 Travlr Getaways full stack application. I improved the MongoDB database by adding stronger schema validation, additional indexes, database filtering, improved error handling, and JWT protection for database-changing routes. These changes helped make the application more secure, reliable, and efficient when storing and retrieving trip information.
