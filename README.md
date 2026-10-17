@@ -36,3 +36,6 @@ For my database enhancement, I selected my CS 465 Travlr Getaways full stack app
 [Enhanced Artifact](Patrick_Cary_Travlr_Enhanced.zip)
 
 [Narrative](Patrick_Cary_Milestone4_Narrative.docx)
+
+# AI Use Acknowledgment
+I used Google AI to assist with organizing ideas, improving wording, and reviewing portions of my written work and ePortfolio structure. I reviewed and edited the final content to make sure it accurately reflects my own work, experiences, and understanding.
